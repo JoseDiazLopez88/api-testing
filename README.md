@@ -54,11 +54,11 @@ newman run postman/"Client API Tests.postman_collection.json" \
 
 ![Ejecución en terminal](screenshots/run-newman.jpg)
 
-## ✅ Reporte HTML generado
+## ✅ Reporte HTML Online
 
 Puedes visualizar el reporte generado por **Newman** con el reporter **htmlextra** desde este enlace:
 
-[🔍 Ver Reporte de Test API](./reports/report.html)
+[🔍 Ver Reporte de Test API](https://josediazlopez88.github.io/api-testing/report.html)
 
 ---
 
