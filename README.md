@@ -1,6 +1,6 @@
 # 📦 API Testing Project — Client API
 
-Este repositorio contiene un conjunto de pruebas automatizadas para la API REST de gestión de clientes utilizando **Postman** y **Newman**, con generación de reportes en formato HTML.
+Este repositorio contiene un conjunto de pruebas automatizadas para una API REST de gestión de clientes, desarrollada en Spring Boot (Java), utilizando Postman y Newman, con generación de reportes en formato HTML.
 
 ## 📑 Descripción
 
