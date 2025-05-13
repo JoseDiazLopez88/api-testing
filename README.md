@@ -58,6 +58,9 @@ newman run postman/"Client API Tests.postman_collection.json" \
 
 ![Reporte HTML](screenshots/report-html.jpg)
 
+### ✅ Postman UI:
+![Postman UI](screenshots/postman.jpg)
+
 ## 📋 Detalles de las Pruebas
 
 | Nombre de Prueba    | Método | Endpoint                        | Validaciones                                  |
