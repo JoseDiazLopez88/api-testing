@@ -70,6 +70,9 @@ A continuación se muestra una captura de pantalla de una sección del reporte g
 
 
 ### ✅ Postman UI:
+
+A continuación se muestra una captura de pantalla de una sección de la interfaz de Postman:
+
 ![Postman UI](screenshots/postman.jpg)
 
 ## 📋 Detalles de las Pruebas
@@ -90,7 +93,6 @@ A continuación se muestra una captura de pantalla de una sección del reporte g
 ## 📈 Autor
 
 **José E. Díaz López**  
-📧 jose.dciaz@gmail.com  
 
 ## 📖 Licencia
 
